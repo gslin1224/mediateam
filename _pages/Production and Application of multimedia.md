@@ -1,6 +1,6 @@
 ---
 layout: page
-title: test2
+title: About Us
 permalink: /Production and Application of multimedia/
 image: 08.jpg
 ---
@@ -25,16 +25,5 @@ image: 08.jpg
 * Github
 * GitPage
 * [Ruby](https://www.ruby-lang.org/zh_tw/)
-* [Jekyll](http://jekyllrb.com/docs/installation/windows/)
 * Html,CSS,JavaScripts
 * Linux
-## GitHub
-### 下載專案檔案
-`git clone <repository_url>`
-### 創建自己的branch
-`git checkout -b feature_branch`
-### 提交修改
-`git add .`
-`git commit -m "Add new feature"`
-### 推往倉庫
-`git push origin feature_branch`

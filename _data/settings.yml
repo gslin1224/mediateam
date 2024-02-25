@@ -9,9 +9,9 @@ description: Zolan is modern minimal theme for Jekyll
 # Author Settings
 author:
   name: Alex Rodriguez
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  image: 11.jpg
+  say-hello: <strong>歡迎蒞臨, 北護醫療資訊網</strong>
+  bio: 我們是一群熱心的北護學生, 製作這網頁是希望在此網站上的你可以尋找有關  <strong>眼部</strong>, <strong>耳部</strong>, <strong>口腔</strong>, 等醫療資訊的科普 ,如果覺得網站不錯的話請在下方<strong>追蹤</strong>我們的粉絲團, 我們將不定期推送最新醫療科普給您 .
 
 
 #-------------------------------
