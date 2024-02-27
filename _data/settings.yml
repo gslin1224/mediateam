@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
 title: 北護醫療資訊網
-logo: logo.svg # You can add own logo.
+logo: mlogo.png # You can add own logo.
 description: Zolan is modern minimal theme for Jekyll
 
 
-#-------------------------------
+#------------------------------
 # Author Settings
 author:
   name: Alex Rodriguez
