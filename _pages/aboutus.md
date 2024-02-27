@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-permalink: /Production and Application of multimedia/
+permalink: /about us/
 image: 08.jpg
 ---
 

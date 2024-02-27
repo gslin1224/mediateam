@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 臉面 Face 
-permalink: /styleguide/
+title: 口腔 Mouth
+permalink: /mouth/
 image: 08.jpg
 ---
 
